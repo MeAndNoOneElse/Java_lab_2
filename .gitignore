@@ -556,7 +556,7 @@ ehthumbs_vista.db
 # =====================================
 !*.pdf
 !*.doc
-!*.docx
+*.docx
 !*.txt
 !*.md
 !LICENSE
